@@ -1,5 +1,5 @@
 ### 🍄 DumpyPumpy.v1 | Best AIO BOT
-Telegram: [@Dumpy_Pumpy](https://t.me/Dumpy_Pumpy) | DumpyPumpy is your ultimate solution for dominating the crypto trading scene on both Pump.fun and Raydium. With our powerful Wallet Set feature, you can create and manage multiple wallet configurations tailored for specific tasks such as the Volume Bot, Bump Bot, and Army Snipe Bot
+Telegram: [@Dumpy_Pumpy](https://t.me/Dumpy_Pumpy) | DumpyPumpy is your ultimate telegram trading bot designed to excel in token sniping and sol to USD conversions using platforms like Jupiter. Whether you are trading on Pump.fun or Raydium, our sniper bot is equipped to handle it all. As a solana MEV bot, it ensures maximum extraction value, making it the best sol trading bot available. With features like solana copytrade and solana snipe bot, DumpyPumpy is the perfect choice for serious traders.
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-DumpyPumpy-blueviolet?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DumpyPumpy_bot)
