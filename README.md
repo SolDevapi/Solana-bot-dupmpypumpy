@@ -8,9 +8,28 @@ Telegram: [@Dumpy_Pumpy](https://t.me/Dumpy_Pumpy) | DumpyPumpy is your ultimate
 
 proof of work
 
+
+
+
+
+
+
+
+
+
 <video width="640" height="480" controls>
   <source src="readme/DumpyPumpy.mp4" type="video/mp4">
 </video>
+
+
+
+
+
+
+
+
+
+
 
 ### Background 🏞
 DumpyPumpy enables users to use multiple customized wallet sets to perform all kinds of features in the same code, without running different scripts 😵‍💫  
