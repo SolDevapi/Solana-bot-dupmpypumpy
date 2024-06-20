@@ -4,7 +4,11 @@ Telegram: [@Dumpy_Pumpy](https://t.me/Dumpy_Pumpy) | DumpyPumpy is your ultimate
 
 [![Telegram](https://img.shields.io/badge/Telegram-DumpyPumpy-blueviolet?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DumpyPumpy_bot)
 
-![logo](logo.png)
+![logo](readme/logo.png)
+
+<video width="320" height="240" controls>
+  <source src="readme/2024-06-19 18-52-12.mkv" type="DumpyPumpy.mkv">
+</video>
 
 ### Background 🏞
 DumpyPumpy enables users to use multiple customized wallet sets to perform all kinds of features in the same code, without running different scripts 😵‍💫  
