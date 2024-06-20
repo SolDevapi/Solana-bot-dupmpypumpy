@@ -6,30 +6,13 @@ Telegram: [@Dumpy_Pumpy](https://t.me/Dumpy_Pumpy) | DumpyPumpy is your ultimate
 
 ![logo](readme/logo.png)
 
-proof of work
+# Video of the bot working 🦾
 
+<div align="center">
+  <video src="https://github.com/SolDevapi/Solana-bot-dupmpypumpy/assets/170316734/b14069e7-1a62-4de9-8d5b-32b069564c56"/>
+</div>
 
-
-
-
-
-
-
-
-
-<video width="640" height="480" controls>
-  <source src="readme/DumpyPumpy.mp4" type="video/mp4">
-</video>
-
-
-
-
-
-
-
-
-
-
+# ❗️Write "TRIAL" to the bot [![Telegram](https://img.shields.io/badge/Telegram-DumpyPumpy-blueviolet?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DumpyPumpy_bot) for a 30-minute trial to explore its functionality❗️
 
 ### Background 🏞
 DumpyPumpy enables users to use multiple customized wallet sets to perform all kinds of features in the same code, without running different scripts 😵‍💫  
