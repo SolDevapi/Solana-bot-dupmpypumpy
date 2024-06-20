@@ -6,8 +6,10 @@ Telegram: [@Dumpy_Pumpy](https://t.me/Dumpy_Pumpy) | DumpyPumpy is your ultimate
 
 ![logo](readme/logo.png)
 
-<video width="320" height="240" controls>
-  <source src="readme/2024-06-19 18-52-12.mkv" type="DumpyPumpy.mkv">
+proof of work
+
+<video width="640" height="480" controls>
+  <source src="readme/DumpyPumpy.mp4" type="video/mp4">
 </video>
 
 ### Background 🏞
