@@ -1,5 +1,6 @@
-### 🍄 DumpyPumpy.v1 | Best AIO BOT
-Telegram: [@Dumpy_Pumpy](https://t.me/Dumpy_Pumpy) | DumpyPumpy is your ultimate telegram trading bot designed to excel in token sniping and sol to USD conversions using platforms like Jupiter. Whether you are trading on Pump.fun or Raydium, our sniper bot is equipped to handle it all. As a solana MEV bot, it ensures maximum extraction value, making it the best sol trading bot available. With features like solana copytrade and solana snipe bot, DumpyPumpy is the perfect choice for serious traders.
+<h1 align="center"> 🍄 DumpyPumpy.v1 | Best AIO BOT </h1>
+
+Solana Bot is the best solana trading bot featuring a token sniper, autotrade, and integration with Raydium and PUMP.FUN. It replaces BonkBot and Unibot, providing tools for managing crypto wallets and trading. Key features include solana copy trading, solana volume bot, and solana-sniping-bot. The best Solana bot for all your needs, ensuring efficient and secure trading operations.
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-DumpyPumpy-blueviolet?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DumpyPumpy_bot)
